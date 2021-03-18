@@ -1,0 +1,18 @@
+#indented {
+    margin-left: 40px;
+}
+
+th, td {
+    padding: 1px 3px;
+    text-align: center;
+    border: 1px solid rgb(179, 168, 147);
+    vertical-align: middle;
+}
+
+.effect {
+    width: 75%;
+}
+
+.icon {
+    width: 8%;
+}

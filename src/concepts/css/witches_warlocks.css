@@ -1,0 +1,16 @@
+.textAndImage {
+    font-size: 1.05em;
+    width: 20%;
+    text-align: left;
+    float: left;
+}
+
+.textAndImage img {
+    width: 175px;
+    height: 175px;
+    margin-top: 5px;
+}
+
+#warlockimg {
+    border: 1px solid lightgray;
+}

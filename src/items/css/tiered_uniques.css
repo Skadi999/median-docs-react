@@ -1,0 +1,56 @@
+.description {
+    padding: 10px 5px 10px 5px;
+    margin: 20px auto 10px auto;
+    width: 95%;
+    text-align: left;
+    line-height: 1.2;
+}
+
+/* table */
+.category {
+    width: 95%;
+    font-weight: bold;
+    font-size:22px;
+    text-align: left;
+    color: #a1a178;
+    margin: 25px auto 0 auto;
+}
+
+table {
+    width: 95%;
+    margin: 5px auto 0 auto;
+}
+
+th {
+    margin: 0 auto;
+    border: 1px solid black;
+    line-height: 24px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #a1a178;
+    background-color: #312a1aa9;
+}
+
+td {
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 15px;
+    color: #a1a178;
+}
+
+td img{
+    margin: auto;
+    border: 1px solid rgb(204, 204, 204);
+}
+
+.textCell {
+    width: 31%;
+    padding: 3px 0 5px 5px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.img {
+    width: 7%;
+    padding: 0 10px 0 10px;
+}

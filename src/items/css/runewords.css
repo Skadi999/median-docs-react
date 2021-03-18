@@ -1,0 +1,57 @@
+/* Description */
+.description {
+    color: #a0a076;
+    text-align: left;
+    width: 100%;
+    margin: 30px auto 20px auto;
+    padding: 10px 5px 10px 30px;
+}
+
+.description h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* table */
+table {
+    width: 95%;
+    margin: 25px auto 0 auto;
+}
+
+th {
+    margin: 0 auto;
+    border: 1px solid black;
+    line-height: 24px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #a1a178;
+    background-color: #312a1aa9;
+}
+
+td {
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 15px;
+    color: #a1a178;
+    width: 12%;
+    padding-bottom: 4px;
+}
+
+td img{
+    margin: 5px auto 2px auto;
+    border: 1px solid rgb(204, 204, 204);
+}
+
+.stats {
+    padding: 10px 0 10px 0;
+    width: 64%;
+}
+
+/* Amazon Priestesses' names colors */
+#philios {
+    color: #ff0000;
+}
+
+#skovos {
+    color: #0000ff;
+}
